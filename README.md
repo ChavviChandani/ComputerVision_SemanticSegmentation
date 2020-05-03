@@ -1,6 +1,6 @@
 # Image Denoising
 
-Code to perform this is underCV.ipynb
+Code to perform this is under CV.ipynb
 
 | ![Original Image](CHANDANC%40TCD.IE_014%20(1).png) | 
 |:--:| 

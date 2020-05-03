@@ -1,4 +1,7 @@
 # Image Denoising
+
+Code to perform this is underCV.ipynb
+
 | ![Original Image](CHANDANC%40TCD.IE_014%20(1).png) | 
 |:--:| 
 | *Image before Denoising* |
